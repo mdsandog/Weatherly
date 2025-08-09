@@ -1,0 +1,6 @@
+weatherly/
+│
+├── index.html         # Main HTML page
+├── style.css          # Styles
+├── app.js             # JavaScript logic
+└── README.md          # Project description

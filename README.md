@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/21644646/README.md)
 # Weatherly ☁️
 
 A simple weather app that shows the current weather for any city using the OpenWeatherMap API.
@@ -20,4 +21,4 @@ Search for cities like:
 
 ---
 
-Built with 💙 by [Your Name]
+Built with 💙 by [mdsandog]
